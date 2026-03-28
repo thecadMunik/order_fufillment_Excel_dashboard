@@ -147,9 +147,7 @@ Customer feedback was distributed quite evenly:
 Even though delays were present, customer sentiment did not lean overwhelmingly negative. This made me conclude that communication, visibility, and service quality may also play a major role in how customers rate their experience.
 
 ## 🖼️ Dashboard Preview
-
-![Streamline Logistics Dashboard]
-(https://github.com/thecadMunik/order_fufillment_Excel_dashboard/blob/main/Dashboard/strealinedashboard.png)
+![Streamline Logistics Dashboard](https://github.com/thecadMunik/order_fufillment_Excel_dashboard/blob/main/Dashboard/strealinedashboard.png)
 
 ## 💡 Recommendations 
 
