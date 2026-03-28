@@ -148,7 +148,8 @@ Even though delays were present, customer sentiment did not lean overwhelmingly 
 
 ## 🖼️ Dashboard Preview
 
-![Streamline Logistics Dashboard](./strealinedashboard.png)
+![Streamline Logistics Dashboard]
+(https://github.com/thecadMunik/order_fufillment_Excel_dashboard/blob/main/Dashboard/strealinedashboard.png)
 
 ## 💡 Recommendations 
 
